@@ -4,10 +4,10 @@
 
 ## My Projects
 
-### 1. Educate Project
+### 1. Educate Project (Work in Progress)
 - [**Educate_FE**](https://github.com/Nitesh058Raj/Educate_FE):  Frontend in AngularJS.
 - [**Educate_BE**](https://github.com/Nitesh058Raj/Educate_BE):  Backend in NodeJS with ExpressJS.
-- [**Educate_BFF**](https://github.com/Nitesh058Raj/Educate_BFF): Backend for the Frontend using GraphQL with NestJS (Work in Progress).
+- [**Educate_BFF**](https://github.com/Nitesh058Raj/Educate_BFF): Backend for the Frontend using GraphQL with NestJS.
 
 ### 2. [Node-BackEnd-Assignment-Submissions-Apis](https://github.com/Nitesh058Raj/Node-BackEnd-Assignment-Submissions-Apis)
 - A project demonstrating Node.js with ExpressJS, Docker, Docker Compose, MySQL, and JWT authentication.
